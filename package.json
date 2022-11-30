@@ -1,0 +1,14 @@
+{
+  "name": "Aerium",
+  "version": "0.0.1",
+  "description": "Une app qui permet d'avoir l'historique des différents match de foot très facilement.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Fofh",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^21.3.1"
+  }
+}
